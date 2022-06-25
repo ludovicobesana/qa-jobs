@@ -7,3 +7,4 @@ A curated list of job positions from the QA world
 - QA Automation Engineer - TheFork: [Link](https://www.linkedin.com/jobs/view/3124539567)
 - Quality Assurance Automation Engineer - TrustLayer: [Link](https://www.linkedin.com/jobs/view/3098342196)
 - QA Engineer - Kantar: [Link](https://www.linkedin.com/jobs/view/3127515281)
+- Quality Assurance Engineer - Vodafone: [Link](https://www.linkedin.com/jobs/view/3136617662)
