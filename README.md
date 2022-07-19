@@ -10,3 +10,4 @@ A curated list of job positions from the QA world
 - Quality Assurance Engineer - Vodafone: [Link](https://www.linkedin.com/jobs/view/3136617662)
 - Senior Test Engineer - Nearform : [Link](https://www.nearform.com/jobs/?gh_jid=4703462003)
 - QA Automation Engineer - JAGGAER : [Link](https://www.linkedin.com/jobs/view/3148361148)
+- Test Engineer - Generali Italia: [Link](https://www.linkedin.com/jobs/view/3178677077)
