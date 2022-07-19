@@ -12,4 +12,4 @@ A curated list of job positions from the QA world
 - QA Automation Engineer - JAGGAER : [Link](https://www.linkedin.com/jobs/view/3148361148)
 - Test Engineer - Generali Italia: [Link](https://www.linkedin.com/jobs/view/3178677077)
 - Quality Assurance Engineer - Arduino: [Link](https://www.linkedin.com/jobs/view/3157890312)
-
+- Software QA Analyst - Labcorp: [Link](https://www.linkedin.com/jobs/view/3170405844)
