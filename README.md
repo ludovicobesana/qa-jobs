@@ -13,3 +13,4 @@ A curated list of job positions from the QA world
 - Test Engineer - Generali Italia: [Link](https://www.linkedin.com/jobs/view/3178677077)
 - Quality Assurance Engineer - Arduino: [Link](https://www.linkedin.com/jobs/view/3157890312)
 - Software QA Analyst - Labcorp: [Link](https://www.linkedin.com/jobs/view/3170405844)
+- Test Manager - Avangarde Group: [Link](https://www.linkedin.com/jobs/view/3169870985)
